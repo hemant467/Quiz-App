@@ -1,2 +1,2 @@
 # Quiz-App
-A simple quiz app using HTML ; CSS &amp; JS
+A simple <a href="https://github.com/hemant467/Quiz-App">quiz app </a>using HTML ; CSS &amp; JS
